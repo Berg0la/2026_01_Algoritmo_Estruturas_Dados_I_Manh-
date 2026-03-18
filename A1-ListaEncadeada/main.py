@@ -8,3 +8,6 @@ lista.add("Carlos")
 lista.add("Fernando")
 lista.add("Talita")
 lista.add("Eduarda")
+
+lista.remover("Carlos")
+lista.remover("Eduarda")
